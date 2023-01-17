@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Creación proyecto y primer ejercicio">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/Ejercicio2/Main.java" afterDir="false" />
+    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Basico: Ejercicio 2">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasico/Ejercicio3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasico/Ejercicio1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,18 @@
       <option name="presentableId" value="Default" />
       <updated>1673975151031</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Basico: Ejercicio 2">
+      <created>1673980682814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673980682814</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Basico: Ejercicio 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basico: Ejercicio 2" />
   </component>
 </project>
