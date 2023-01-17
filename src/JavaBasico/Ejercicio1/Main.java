@@ -1,4 +1,13 @@
-package Ejercicio1;
+package JavaBasico.Ejercicio1;
+
+/*
+Enunciado del ejercicio:
+Para este primer ejercicio tendréis que realizar lo siguiente:
+- Crea un proyecto de Java desde 0
+- Dentro del proyecto tenéis que crear un paquete. En el paquete tendréis que crear una clase.
+- Dentro de la clase tenéis que crear el método main e imprimir todos los datos que se han visto en las sesiones.
+ */
+
 public class Main {
     public static void main(String[] args) {
 
@@ -30,18 +39,8 @@ public class Main {
                     ", Double=" + tipoDouble +
                     ", Char=" + tipoChar +
                     ", Boolean=" + tipoBooleanTrue +
-                    ", String='" + tipoString + '\'';
+                    ", String='" + tipoString + "'.";
 
         System.out.println(todosDatos);
     }
 }
-
-
-
-/*
-Enunciado del ejercicio:
-Para este primer ejercicio tendréis que realizar lo siguiente:
-- Crea un proyecto de Java desde 0
-- Dentro del proyecto tenéis que crear un paquete. En el paquete tendréis que crear una clase.
-- Dentro de la clase tenéis que crear el método main e imprimir todos los datos que se han visto en las sesiones.
- */
