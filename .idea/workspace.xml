@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Basico: Ejercicio 5">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileIn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileOut.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Main.java" afterDir="false" />
+    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Basico: Ejercicios finales">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasico/SwingTax/MainForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasico/SwingTax/MainForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileOut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileOut.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +49,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\David\javaProjects\Open-BootCamp\src\JavaBasico\EjerciciosFinales\Files" />
       <recent name="C:\Users\David\javaProjects\Open-BootCamp\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.MainForm">
     <configuration name="Main$CadenaReves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasico.EjerciciosFinales.Main$CadenaReves" />
       <module name="Open-BootCamp" />
@@ -79,8 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasico.SwingTax.MainForm" />
+      <module name="Open-BootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasico.SwingTax.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainForm" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main$CadenaReves" />
       </list>
@@ -123,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674061369236</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Java Basico: Ejercicios finales">
+      <created>1674173675564</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674173675564</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +164,8 @@
     <MESSAGE value="Java Basico: Ejercicio 3" />
     <MESSAGE value="Java Basico: Ejercicio 4" />
     <MESSAGE value="Java Basico: Ejercicio 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Basico: Ejercicio 5" />
+    <MESSAGE value="Java Basico: Ejercicios finales" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basico: Ejercicios finales" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
