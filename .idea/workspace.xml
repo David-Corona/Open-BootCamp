@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Basico: Ejercicio 4">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/Ejercicio5/CocheCRUD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/Ejercicio5/CocheCRUDImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/Ejercicio5/Main.java" afterDir="false" />
+    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Basico: Ejercicio 5">
+      <change afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileIn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileOut.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2KSk0PLCKNQqU68vrvpamTadg5I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,6 +51,40 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\David\javaProjects\Open-BootCamp\src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main$CadenaReves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasico.EjerciciosFinales.Main$CadenaReves" />
+      <module name="Open-BootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasico.EjerciciosFinales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasico.EjerciciosFinales.Main" />
+      <module name="Open-BootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasico.EjerciciosFinales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main$CadenaReves" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -79,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673996228786</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Basico: Ejercicio 5">
+      <created>1674061369236</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674061369236</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +141,18 @@
     <MESSAGE value="Java Basico: Ejercicio 2" />
     <MESSAGE value="Java Basico: Ejercicio 3" />
     <MESSAGE value="Java Basico: Ejercicio 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Basico: Ejercicio 4" />
+    <MESSAGE value="Java Basico: Ejercicio 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basico: Ejercicio 5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Main.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
