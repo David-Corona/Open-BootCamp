@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Basico: Ejercicios finales">
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/SwingTax/MainForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaBasico/SwingTax/MainForm.java" afterDir="false" />
+    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Basico: Swing">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/ProgFuncional/Funcionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/ProgFuncional/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Recursion/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileOut.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Files/fileOut.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +42,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\David\javaProjects\Open-BootCamp\src\JavaBasico\EjerciciosFinales\Files" />
       <recent name="C:\Users\David\javaProjects\Open-BootCamp\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainForm">
+  <component name="RunManager" selected="Application.JavaAvanzado.Recursion.Main">
+    <configuration name="JavaAvanzado.ProgFuncional.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAvanzado.ProgFuncional.Main" />
+      <module name="Open-BootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAvanzado.ProgFuncional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaAvanzado.Recursion.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaAvanzado.Recursion.Main" />
+      <module name="Open-BootCamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaAvanzado.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main$CadenaReves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasico.EjerciciosFinales.Main$CadenaReves" />
       <module name="Open-BootCamp" />
@@ -95,8 +124,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainForm" />
+        <item itemvalue="Application.JavaAvanzado.Recursion.Main" />
+        <item itemvalue="Application.JavaAvanzado.ProgFuncional.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainForm" />
         <item itemvalue="Application.Main$CadenaReves" />
       </list>
     </recent_temporary>
@@ -145,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674173675564</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Java Basico: Swing">
+      <created>1674239313164</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674239313164</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,7 +203,8 @@
     <MESSAGE value="Java Basico: Ejercicio 4" />
     <MESSAGE value="Java Basico: Ejercicio 5" />
     <MESSAGE value="Java Basico: Ejercicios finales" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Basico: Ejercicios finales" />
+    <MESSAGE value="Java Basico: Swing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basico: Swing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -174,6 +213,15 @@
           <url>file://$PROJECT_DIR$/src/JavaBasico/EjerciciosFinales/Main.java</url>
           <line>68</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/JavaAvanzado/Recursion/Main.java</url>
+          <line>39</line>
+          <properties class="JavaAvanzado.Recursion.Main" method="sumaFuncional">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
