@@ -4,24 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Avanzado: Corrección patron facade">
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Iterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Iterator/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Iterator/UsuarioIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Iterator/Usuarios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Mediator/Colega.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Mediator/ColegaConcreto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Mediator/ColegaConcreto2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Mediator/ColegaConcreto3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Mediator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Mediator/MediadorConcreto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Observer/Emisora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Observer/Receptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Observer/ReceptorRadio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Observer/ReceptorSatelite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Observer/ReceptorTV.java" afterDir="false" />
+    <list default="true" id="ee221b01-32fb-47ea-9f17-8f00b51f0cd3" name="Changes" comment="Java Avanzado: Patrones de Comportamiento (Mediator, Iterator y Observer)">
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/State/Estado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/State/EstadoBloqueado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/State/EstadoCamaraAbierta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/State/EstadoDesbloqueado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/State/EstadoHacerFoto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/State/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/State/Telefono.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Strategy/Usuarios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Strategy/UsuariosFichero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaAvanzado/Patrones/DeComportamiento/Strategy/UsuariosMemoria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -224,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674497737216</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Java Avanzado: Patrones de Comportamiento (Mediator, Iterator y Observer)">
+      <created>1674502387120</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674502387120</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,7 +250,8 @@
     <MESSAGE value="Java Avanzado: Patrones creacionales" />
     <MESSAGE value="Java Avanzado: Patrones estructurales" />
     <MESSAGE value="Java Avanzado: Corrección patron facade" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Avanzado: Corrección patron facade" />
+    <MESSAGE value="Java Avanzado: Patrones de Comportamiento (Mediator, Iterator y Observer)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Avanzado: Patrones de Comportamiento (Mediator, Iterator y Observer)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
