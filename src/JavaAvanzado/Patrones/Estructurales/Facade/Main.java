@@ -8,6 +8,6 @@ En este ejemplo, se "esconde" la complejidad en VideoConversionFacade
 public class Main {
     public static void main(String[] args) {
         VideoConversionFacade conversor = new VideoConversionFacade();
-        conversor.convertVideo("fichero.org", "mp4");
+        conversor.convertVideo("fichero.ogg", "mp4");
     }
 }
